@@ -13,11 +13,10 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  style: blue
   title: Pamela Cardenas
   tagline: Estudiante
   date_format: "%b %-d, %Y"
-  style: black
+  style: blue
   showNav: false
   showPicker: false
 
