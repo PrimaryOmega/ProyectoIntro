@@ -1,13 +1,18 @@
 ---
 layout: post
-title:  "Ejemplo"
+title:  "INTRODUCCION A LA INGENIERIA DE SOFTWARE"
 date:   2020-08-16 19:14:00 
 
-categories: Hola-Mundo
+categories: Unidad:
 ---
 
-# Titulo 1
-## Titulo 2
+# Unidad 1
+*  ¿Qu´e es software?
+Programas de c´omputo y su documentaci´on asociada: requerimiento, modelos de dise˜no y manuales de usuario. El software puede ser gen´erico o ad hoc. &nbsp;
+    * Gen´erico: desarrollado para venderse a m´ultiples clientes (Excel, Word, etc.) &nbsp;
+    * Ad hoc: desarrollado bajo demanda del cliente a un desarrollador espec´ıfico &nbsp;
+
+## Unidad 2
 ### Titulo 3
 
 * Lista 1 &nbsp;
