@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "INTRODUCCION A LA INGENIERIA DE SOFTWARE (Unidad 1-2)"
-date:   2020-08-16 13:05:36
+date:   2020-08-16 13:41:36
 
 categories: Unidad
 ---
@@ -87,9 +87,27 @@ Ejemplos de perspectivas del proceso de software:
 
 <img src="https://sites.google.com/site/metdlgsddesarrollodesoftware/_/rsrc/1468751570088/modelo-contractual/mspiral.png" alt="Modelos" width="75%"/>
 
+Ingeniería de Software
+#Código de Ética y Práctica Profesional 5.2 &nbsp;
+
+Los ingenieros de software deberán comprometerse a convertir el análisis, especificación, diseño, implementación, pruebas y mantenimiento de software en una profesión respetada y benéfica. De acuerdo a su compromiso con la salud, seguridad y bienestar social, los ingenieros de software deberán sujetarse a los ocho. &nbsp;
+principios siguientes: &nbsp;
+1. Sociedad. Los ingenieros de software actuarán en forma congruente con el interés social. &nbsp;
+2. Cliente. y empresario. Los ingenieros de software actuarán de manera que se concilien los mejores intereses de sus clientes y empresarios, congruentemente con el interés social. &nbsp;
+3. Producto. Los ingenieros de software asegurarán que sus productos y modificaciones correspondientes cumplen los estándares profesionales más altos posibles. &nbsp;
+4. Juicio. Los ingenieros de software mantendrán integridad e independencia en su juicio profesional. &nbsp;
+5. Administración. Los ingenieros de software gerentes y líderes promoverán y se suscribirán a un enfoque ético en la administración del desarrollo y mantenimiento de software. &nbsp;
+6. Profesión. Los ingenieros de software incrementarán la integridad y reputación de la profesión congruentemente con el interés social. &nbsp;
+7. Colegas. Los ingenieros de software apoyarán y serán justos con sus colegas. &nbsp;
+8. Personal. Los ingenieros de software participarán toda su vida en el aprendizaje relacionado con la práctica de su profesión y promoverán un enfoque ético en la práctica de la profesión. &nbsp;
 
 
 ## Unidad 2
+
+
+
+
+
 
 
 
