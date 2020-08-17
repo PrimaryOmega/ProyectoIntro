@@ -1,35 +1,30 @@
 ---
 layout: post
 title:  "INTRODUCCION A LA INGENIERIA DE SOFTWARE"
-date:   2020-08-16 02:45:39
+date:   2020-08-16 02:49:36
 
 categories: Unidad
 ---
 
 # Unidad 1
-layout: post
 * ¿Qué es software? 
 Programas de cómputo y su documentación asociada: requerimiento, modelos de diseño y manuales de usuario. &nbsp;
 El software puede ser genérico o ad hoc. &nbsp;
   * Genérico: desarrollado para venderse a múltiples clientes (Excel, Word, etc.) &nbsp;
   * Ad hoc: desarrollado bajo demanda del cliente a un desarrollador especifico. &nbsp;
   
-layout: post  
 * ¿Qué es la Ingeniería de Software? &nbsp;
 Una disciplina de la Ingeniería que concierne a todos los aspectos de la producción de software. &nbsp;
 
-layout: post
 * ¿Qué es un proceso de software? &nbsp;
 Un conjunto estructurado de actividades, cuya meta es el desarrollo o evoluci´on de un software. &nbsp;
 
-layout: post
 * ¿Cúales son los atributos de calidad de software? &nbsp;
 El software debe proveer la funcionalidad y desempeño requeridos por el usuario y debe ser mantenible, confiable y aceptable. &nbsp;
   * Mantenible: el software debe poder evolucionar para continua cumpliendo con las especificaciones. &nbsp;
   * Confiable: el software no debe causar daños físicos o económicos en el caso de que falle. &nbsp;
   * Eficiente: el software no debe desperdiciar los recursos del sistema Aceptable, el software debe ser aceptado por los usuarios para los que fue diseñado. Debe ser entendible, utilizable y compatible con otros sistemas. &nbsp;
 
-layout: post
 * Las crisis del software. &nbsp;
   * Desarrollar software puede ser un gran desafío intelectual: &nbsp;
 Problemas grandes, complejos y muy variados &nbsp;
@@ -39,17 +34,14 @@ Imposibilidad de utilizar aproximaciones &nbsp;
 
 <img src="https://velneo.es/files/2016/03/5060342600695808.png" alt="Software" width="75%"/>
 
-layout: post
 * ¿Qué es software de calidad? &nbsp;
   * Un software de calidad tiene concordancia con:
 Los requisitos funcionales y de rendimiento explícitamente establecidos. &nbsp;
 Los estándares de desarrollo explícitamente documentados y las características implícitas que se espera de todo software desarrollado profesionalmente. &nbsp;
 
-layout: post
 * Proceso de software. &nbsp;
 Un conjunto estructurado de actividades, cuya meta es el desarrollo o evolución de un software eficaz y eficiente que reúna los requisitos del cliente.
 
-layout: post
 * Modelo de procesos de desarrollo de software &nbsp;
 Representación formal y simplificada de un proceso de software, presentada desde una perspectiva específica. &nbsp;
 Dicho de otra forma, los procesos son instancias de un modelo de proceso. &nbsp;
@@ -67,7 +59,6 @@ Ejemplos de perspectivas del proceso de software:
 * Modelos en espiral, modelo de proceso de software evolutivo Orientados a la reutilización, trata de maximizar la reutilización de software existente. &nbsp;
 * Métodos Formales, transformar una especificación formal a lo largo devarias representaciones hasta llegar a un programa ejecutable. &nbsp;
 
-layout: post
 * MODELOS DE DESARROLLO DE SOFTWARE. &nbsp;
   
 * Modelo en Cascada. &nbsp;
