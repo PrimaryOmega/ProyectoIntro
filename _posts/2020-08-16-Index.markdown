@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "INTRODUCCION A LA INGENIERIA DE SOFTWARE"
-date:   2020-08-16 03:46:36
+date:   2020-08-16 03:53:36
 
 categories: Unidad
 ---
@@ -70,15 +70,21 @@ Ejemplos de perspectivas del proceso de software:
 * Modelos en espiral, modelo de proceso de software evolutivo Orientados a la reutilización, trata de maximizar la reutilización de software existente. &nbsp;
 * Métodos Formales, transformar una especificación formal a lo largo devarias representaciones hasta llegar a un programa ejecutable. &nbsp;
 
-* MODELOS DE DESARROLLO DE SOFTWARE. 
-  
+* MODELOS DE DESARROLLO DE SOFTWARE. &nbsp;
 * Modelo en Cascada. 
+
 <img src="https://www.ionos.mx/digitalguide/fileadmin/DigitalGuide/Screenshots_2019/wasserfallmodell-ES-1.jpg" alt="Modelos" width="50%"/>
+
 * Modelo Iterativo. 
+
 <img src="http://4.bp.blogspot.com/-JPTk7lFWqJM/UE9ej0ONpvI/AAAAAAAAADk/OaATIcjpm-Y/s640/ModeloIterativol_grafica.jpg" alt="Modelos" width="50%"/>
+
 * Modelo Prototipado. 
+
 <img src="https://i.ytimg.com/vi/gpd0dpCTmFw/hqdefault.jpg" alt="Modelos" width="50%"/>
+
 * Modelo en espiral. 
+
 <img src="https://sites.google.com/site/metdlgsddesarrollodesoftware/_/rsrc/1468751570088/modelo-contractual/mspiral.png" alt="Modelos" width="50%"/>
 
 
