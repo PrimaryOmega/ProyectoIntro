@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "INTRODUCCION A LA INGENIERIA DE SOFTWARE"
-date:   2020-08-16 19:14:00 
+date:   2020-08-16 22:40:00 
 
 categories: Unidad:
 ---
