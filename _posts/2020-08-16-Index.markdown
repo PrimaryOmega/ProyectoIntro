@@ -1,12 +1,18 @@
 ---
 layout: post
 title:  "INTRODUCCION A LA INGENIERIA DE SOFTWARE"
-date:   2020-08-16 02:49:36
+date:   2020-08-16 02:55:36
 
 categories: Unidad
 ---
 
 # Unidad 1
+
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=W84IdW5l&id=61602CCCA8F2263BAF32B70E85338C2C2CFA11D7&thid=OIP.W84IdW5lmp2firNwYxzSkgHaFO&mediaurl=http%3a%2f%2f4.bp.blogspot.com%2f-hZQxOZx4l0A%2fTcAe_X7VYGI%2fAAAAAAAAACQ%2fCSxCqS_FeMU%2fs1600%2fEstelita_Martinez_MapaMental_ISL.png&exph=691&expw=980&q=ingenieria+de+software+mapa&simid=608005418797827049&ck=571B8DCCDACD39C8081F00714D85CD4C&selectedIndex=2&FORM=IRPRST&ajaxhist=0" alt="Software" width="100%"/>
+
+
+
+
 * ¿Qué es software? 
 Programas de cómputo y su documentación asociada: requerimiento, modelos de diseño y manuales de usuario. &nbsp;
 El software puede ser genérico o ad hoc. &nbsp;
