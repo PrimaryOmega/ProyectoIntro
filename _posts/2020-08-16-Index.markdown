@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "INTRODUCCION A LA INGENIERIA DE SOFTWARE (Unidad 1-2)"
-date:   2020-08-16 13:43:36
+date:   2020-08-16 17:59:36
 
 categories: Unidad
 ---
@@ -13,7 +13,7 @@ categories: Unidad
 # Unidad 1
 
 
-<img src="http://micarrerauniversitaria.com/wp-content/uploads/2018/02/upqrro-software.jpg" alt="Software" width="100%"/>
+<img src="http://micarrerauniversitaria.com/wp-content/uploads/2018/02/upqrro-software.jpg" alt="Software" width="150%"/>
 
 
 
@@ -26,15 +26,34 @@ El software puede ser genérico o ad hoc. &nbsp;
   
 ## ¿Qué es la Ingeniería de Software? &nbsp;
 Una disciplina de la Ingeniería que concierne a todos los aspectos de la producción de software. &nbsp;
+Los Ingenieros de Software deben:
+  * Adoptar un enfoque sistem´atico para llevar a cabo su trabajo. &nbsp;
+  * Utilizar las herramientas y t´ecnicas m´as apropiadas dependiendo del problema a resolver, &nbsp;
+  * las restricciones del desarrollo y &nbsp;
+  * los recursos disponibles. &nbsp;
 
 ## ¿Qué es un proceso de software? &nbsp;
-Un conjunto estructurado de actividades, cuya meta es el desarrollo o evoluci´on de un software. &nbsp;
-
+Un conjunto estructurado de actividades, cuya meta es el desarrollo o evolución de un software. &nbsp;
+Algunas actividades genéricas en todos los procesos de software son:
+  * Especificación, qu´e debe hacer el software y cuáles son sus especificaciones de desarrollo. &nbsp;
+  * Desarrollo, producción del sistema de software. &nbsp;
+  * Validación, verificar que el software cumple con lo solicitado por el cliente. &nbsp;
+  * Evolución, cambiar/adaptar el software a las nuevas demandas. &nbsp;
+  
 ## ¿Cúales son los atributos de calidad de software? &nbsp;
 El software debe proveer la funcionalidad y desempeño requeridos por el usuario y debe ser mantenible, confiable y aceptable. &nbsp;
-  * Mantenible: el software debe poder evolucionar para continua cumpliendo con las especificaciones. &nbsp;
-  * Confiable: el software no debe causar daños físicos o económicos en el caso de que falle. &nbsp;
-  * Eficiente: el software no debe desperdiciar los recursos del sistema Aceptable, el software debe ser aceptado por los usuarios para los que fue diseñado. Debe ser entendible, utilizable y compatible con otros sistemas. &nbsp;
+  * Mantenible: El software debe poder evolucionar para continua cumpliendo con las especificaciones. &nbsp;
+  * Confiable: El software no debe causar daños físicos o económicos en el caso de que falle. &nbsp;
+  * Eficiente: El software no debe desperdiciar los recursos del sistema.
+  * Aceptable: El software debe ser aceptado por los usuarios para los que fue diseñado. Debe ser entendible, utilizable y compatible con otros sistemas. &nbsp;  
+
+## Retos de la Ingeniería de Software. 
+### Heterogeneidad: 
+Desarrollar técnicas para construir software que pueda hacer frente a plataformas y ambientes de ejecución heterogéneos (diferentes tipos de Hw y Sw). &nbsp;
+### Tiempos de entrega: 
+Desarrollar técnicas que permitan reducir los tiempos de entrega del software sin comprometer la calidad. &nbsp;
+### Confianza: 
+Desarrollar técnicas que permitan que los usuarios confíen plenamente en el software. &nbsp;
 
 ## Las crisis del software. &nbsp;
   * Desarrollar software puede ser un gran desafío intelectual: &nbsp;
@@ -53,7 +72,7 @@ Los estándares de desarrollo explícitamente documentados y las característica
 ## Proceso de software. &nbsp;
 Un conjunto estructurado de actividades, cuya meta es el desarrollo o evolución de un software eficaz y eficiente que reúna los requisitos del cliente.
 
-## Modelo de procesos de desarrollo de software &nbsp;
+## Modelo de procesos de desarrollo de software. &nbsp;
 Representación formal y simplificada de un proceso de software, presentada desde una perspectiva específica. Dicho de otra forma, los procesos son instancias de un modelo de proceso. &nbsp;
 
 Ejemplos de perspectivas del proceso de software:
@@ -71,11 +90,36 @@ Ejemplos de perspectivas del proceso de software:
 * Métodos Formales, transformar una especificación formal a lo largo devarias representaciones hasta llegar a un programa ejecutable. &nbsp;
 
 ## MODELOS DE DESARROLLO DE SOFTWARE. &nbsp;
+Los modelos de desarrollo de software son una representación abstracta de una manera en particular. Realmente no representa cómo se debe desarrollar el software, sino de un enfoque común. &nbsp;
+Existen tres paradigmas de los modelos de desarrollo de software: &nbsp;
+
+# 1. Paradigma Tradicional:
+Es uno de los paradigmas más antiguo, se inventó durante la creación del método estructurado. &nbsp;
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Cuadro_de_ventajas_y_desventajas_del_uso_del_Paradigma_tradicional.JPG" alt="Modelos" width="75%"/>
+
+# 2. Paradigma Orientado a Objetos: 
+Estos modelos se basan en la Programación orientada a objetos; por lo tanto, se refiere al concepto de clase, el análisis de requisitos y el diseño. El modelo o paradigma orientado a objetos posee dos características principales, las cuales son: &nbsp;
+
+<img src="http://slideplayer.es/1469099/3/images/2/Ventajas+del+paradigma+Orientado+a+Objetos.jpg" alt="Modelos" width="75%"/>
+
+# 3. Paradigma de Desarrollo Ágil: 
+Es un paradigma de las Metodologías De Desarrollo basado en procesos ágiles. Estos intentan evitar los tediosos caminos de las metodologías tradicionales enfocándose en las personas y los resultados. &nbsp;
+
+<img src="https://3.bp.blogspot.com/-a6DqPKiykrE/WjFrl0zsqdI/AAAAAAAAA_0/1uS_b49APJ0OyJKiZEVNLyUj2lBVk-EHQCLcBGAs/s1600/metodologias-agiles.jpg" alt="Modelos" width="75%"/>
+
 ### Modelo en Cascada. 
+Modelo en Cascada, también llamado Lineal secuencial, es el enfoque metodológico que ordena rigurosamente las etapas del proceso para el desarrollo de software. 
 
 <img src="https://www.ionos.mx/digitalguide/fileadmin/DigitalGuide/Screenshots_2019/wasserfallmodell-ES-1.jpg" alt="Modelos" width="75%"/>
 
+### Modelo de Espiral.
+La característica clave de un modelo en espiral es la gestión del riesgo en momentos en el ciclo de desarrollo. &nbsp;
+
+<img src="https://sites.google.com/site/metdlgsddesarrollodesoftware/_/rsrc/1468751570088/modelo-contractual/mspiral.png" alt="Modelos" width="75%"/>
+
 ### Modelo Iterativo. 
+Es un modelo derivado del ciclo de vida en cascada. Este modelo busca reducir el riesgo que surge entre las necesidades del usuario y el producto final por malos entendidos durante la etapa de recogida de requisitos. &nbsp;
 
 <img src="http://4.bp.blogspot.com/-JPTk7lFWqJM/UE9ej0ONpvI/AAAAAAAAADk/OaATIcjpm-Y/s640/ModeloIterativol_grafica.jpg" alt="Modelos" width="75%"/>
 
@@ -83,23 +127,20 @@ Ejemplos de perspectivas del proceso de software:
 
 <img src="https://i.ytimg.com/vi/gpd0dpCTmFw/hqdefault.jpg" alt="Modelos" width="75%"/>
 
-### Modelo en espiral. 
-
-<img src="https://sites.google.com/site/metdlgsddesarrollodesoftware/_/rsrc/1468751570088/modelo-contractual/mspiral.png" alt="Modelos" width="75%"/>
-
 # Ingeniería de Software
 ## Código de Ética y Práctica Profesional 5.2 &nbsp;
 
 Los ingenieros de software deberán comprometerse a convertir el análisis, especificación, diseño, implementación, pruebas y mantenimiento de software en una profesión respetada y benéfica. De acuerdo a su compromiso con la salud, seguridad y bienestar social, los ingenieros de software deberán sujetarse a los ocho. &nbsp;
 principios siguientes: &nbsp;
-1. Sociedad. Los ingenieros de software actuarán en forma congruente con el interés social. &nbsp;
-2. Cliente. y empresario. Los ingenieros de software actuarán de manera que se concilien los mejores intereses de sus clientes y empresarios, congruentemente con el interés social. &nbsp;
-3. Producto. Los ingenieros de software asegurarán que sus productos y modificaciones correspondientes cumplen los estándares profesionales más altos posibles. &nbsp;
-4. Juicio. Los ingenieros de software mantendrán integridad e independencia en su juicio profesional. &nbsp;
-5. Administración. Los ingenieros de software gerentes y líderes promoverán y se suscribirán a un enfoque ético en la administración del desarrollo y mantenimiento de software. &nbsp;
-6. Profesión. Los ingenieros de software incrementarán la integridad y reputación de la profesión congruentemente con el interés social. &nbsp;
-7. Colegas. Los ingenieros de software apoyarán y serán justos con sus colegas. &nbsp;
-8. Personal. Los ingenieros de software participarán toda su vida en el aprendizaje relacionado con la práctica de su profesión y promoverán un enfoque ético en la práctica de la profesión. &nbsp;
+1. Sociedad: Los ingenieros de software actuarán en forma congruente con el interés social. &nbsp;
+2. Cliente: y empresario. Los ingenieros de software actuarán de manera que se concilien los mejores intereses de sus clientes y empresarios, congruentemente con el interés social. &nbsp;
+3. Producto: Los ingenieros de software asegurarán que sus productos y modificaciones correspondientes cumplen los estándares profesionales más altos posibles. &nbsp;
+4. Juicio: Los ingenieros de software mantendrán integridad e independencia en su juicio profesional. &nbsp;
+5. Administración: Los ingenieros de software gerentes y líderes promoverán y se suscribirán a un enfoque ético en la administración del desarrollo y mantenimiento de software. &nbsp;
+6. Profesión: Los ingenieros de software incrementarán la integridad y reputación de la profesión congruentemente con el interés social. &nbsp;
+7. Colegas: Los ingenieros de software apoyarán y serán justos con sus colegas. &nbsp;
+8. Personal: Los ingenieros de software participarán toda su vida en el aprendizaje relacionado con la práctica de su profesión y promoverán un enfoque ético en la práctica de la profesión. &nbsp;
+
 
 
 ## Unidad 2
