@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "INTRODUCCION A LA INGENIERIA DE SOFTWARE (Unidad 1-2)"
-date:   2020-08-16 13:41:36
+date:   2020-08-16 13:43:36
 
 categories: Unidad
 ---
@@ -87,8 +87,8 @@ Ejemplos de perspectivas del proceso de software:
 
 <img src="https://sites.google.com/site/metdlgsddesarrollodesoftware/_/rsrc/1468751570088/modelo-contractual/mspiral.png" alt="Modelos" width="75%"/>
 
-Ingeniería de Software
-#Código de Ética y Práctica Profesional 5.2 &nbsp;
+# Ingeniería de Software
+## Código de Ética y Práctica Profesional 5.2 &nbsp;
 
 Los ingenieros de software deberán comprometerse a convertir el análisis, especificación, diseño, implementación, pruebas y mantenimiento de software en una profesión respetada y benéfica. De acuerdo a su compromiso con la salud, seguridad y bienestar social, los ingenieros de software deberán sujetarse a los ocho. &nbsp;
 principios siguientes: &nbsp;
