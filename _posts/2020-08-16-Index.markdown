@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "INTRODUCCION A LA INGENIERIA DE SOFTWARE"
-date:   2020-08-16 03:53:36
+title:  "INTRODUCCION A LA INGENIERIA DE SOFTWARE (Unidad 1-2)"
+date:   2020-08-16 13:05:36
 
 categories: Unidad
 ---
 
-* Software:
+## Software:
 * Se conoce como software o logicial al soporte lógico de un sistema informático, que comprende el conjunto de los componentes lógicos necesarios que hacen posible la realización de tareas específicas, en contraposición a los componentes físicos que son llamados hardware. La interacción entre el software y el hardware hace operativo un ordenador (u otro dispositivo), es decir, el software envía instrucciones que el hardware ejecuta, haciendo posible su funcionamiento. &nbsp;
 
 
@@ -18,44 +18,44 @@ categories: Unidad
 
 
 
-* ¿Qué es software? 
+## ¿Qué es software? &nbsp;
 Programas de cómputo y su documentación asociada: requerimiento, modelos de diseño y manuales de usuario. &nbsp;
 El software puede ser genérico o ad hoc. &nbsp;
   * Genérico: desarrollado para venderse a múltiples clientes (Excel, Word, etc.) &nbsp;
   * Ad hoc: desarrollado bajo demanda del cliente a un desarrollador especifico. &nbsp;
   
-* ¿Qué es la Ingeniería de Software? &nbsp;
+## ¿Qué es la Ingeniería de Software? &nbsp;
 Una disciplina de la Ingeniería que concierne a todos los aspectos de la producción de software. &nbsp;
 
-* ¿Qué es un proceso de software? &nbsp;
+## ¿Qué es un proceso de software? &nbsp;
 Un conjunto estructurado de actividades, cuya meta es el desarrollo o evoluci´on de un software. &nbsp;
 
-* ¿Cúales son los atributos de calidad de software? &nbsp;
+## ¿Cúales son los atributos de calidad de software? &nbsp;
 El software debe proveer la funcionalidad y desempeño requeridos por el usuario y debe ser mantenible, confiable y aceptable. &nbsp;
   * Mantenible: el software debe poder evolucionar para continua cumpliendo con las especificaciones. &nbsp;
   * Confiable: el software no debe causar daños físicos o económicos en el caso de que falle. &nbsp;
   * Eficiente: el software no debe desperdiciar los recursos del sistema Aceptable, el software debe ser aceptado por los usuarios para los que fue diseñado. Debe ser entendible, utilizable y compatible con otros sistemas. &nbsp;
 
-* Las crisis del software. &nbsp;
+## Las crisis del software. &nbsp;
   * Desarrollar software puede ser un gran desafío intelectual: &nbsp;
 Problemas grandes, complejos y muy variados &nbsp;
 Formalismos inadecuados &nbsp;
 Gran diferencia entre la teoría y la práctica &nbsp;
 Imposibilidad de utilizar aproximaciones &nbsp; 
 
-<img src="https://velneo.es/files/2016/03/5060342600695808.png" alt="Software" width="75%"/>
+<img src="https://velneo.es/files/2016/03/5060342600695808.png" alt="Software" width="100%"/>
 
-* ¿Qué es software de calidad? &nbsp;
+## ¿Qué es software de calidad? &nbsp;
   * Un software de calidad tiene concordancia con:
 Los requisitos funcionales y de rendimiento explícitamente establecidos. &nbsp;
 Los estándares de desarrollo explícitamente documentados y las características implícitas que se espera de todo software desarrollado profesionalmente. &nbsp;
 
-* Proceso de software. &nbsp;
+## Proceso de software. &nbsp;
 Un conjunto estructurado de actividades, cuya meta es el desarrollo o evolución de un software eficaz y eficiente que reúna los requisitos del cliente.
 
-* Modelo de procesos de desarrollo de software &nbsp;
-Representación formal y simplificada de un proceso de software, presentada desde una perspectiva específica. &nbsp;
-Dicho de otra forma, los procesos son instancias de un modelo de proceso. &nbsp;
+## Modelo de procesos de desarrollo de software &nbsp;
+Representación formal y simplificada de un proceso de software, presentada desde una perspectiva específica. Dicho de otra forma, los procesos son instancias de un modelo de proceso. &nbsp;
+
 Ejemplos de perspectivas del proceso de software:
   * Flujo de trabajo, secuencia de actividades &nbsp;
   * Flujo de datos, flujo de la información &nbsp;
@@ -70,26 +70,28 @@ Ejemplos de perspectivas del proceso de software:
 * Modelos en espiral, modelo de proceso de software evolutivo Orientados a la reutilización, trata de maximizar la reutilización de software existente. &nbsp;
 * Métodos Formales, transformar una especificación formal a lo largo devarias representaciones hasta llegar a un programa ejecutable. &nbsp;
 
-* MODELOS DE DESARROLLO DE SOFTWARE. &nbsp;
-* Modelo en Cascada. 
+## MODELOS DE DESARROLLO DE SOFTWARE. &nbsp;
+### Modelo en Cascada. 
 
-<img src="https://www.ionos.mx/digitalguide/fileadmin/DigitalGuide/Screenshots_2019/wasserfallmodell-ES-1.jpg" alt="Modelos" width="50%"/>
+<img src="https://www.ionos.mx/digitalguide/fileadmin/DigitalGuide/Screenshots_2019/wasserfallmodell-ES-1.jpg" alt="Modelos" width="75%"/>
 
-* Modelo Iterativo. 
+### Modelo Iterativo. 
 
-<img src="http://4.bp.blogspot.com/-JPTk7lFWqJM/UE9ej0ONpvI/AAAAAAAAADk/OaATIcjpm-Y/s640/ModeloIterativol_grafica.jpg" alt="Modelos" width="50%"/>
+<img src="http://4.bp.blogspot.com/-JPTk7lFWqJM/UE9ej0ONpvI/AAAAAAAAADk/OaATIcjpm-Y/s640/ModeloIterativol_grafica.jpg" alt="Modelos" width="75%"/>
 
-* Modelo Prototipado. 
+### Modelo Prototipado. 
 
-<img src="https://i.ytimg.com/vi/gpd0dpCTmFw/hqdefault.jpg" alt="Modelos" width="50%"/>
+<img src="https://i.ytimg.com/vi/gpd0dpCTmFw/hqdefault.jpg" alt="Modelos" width="75%"/>
 
-* Modelo en espiral. 
+### Modelo en espiral. 
 
-<img src="https://sites.google.com/site/metdlgsddesarrollodesoftware/_/rsrc/1468751570088/modelo-contractual/mspiral.png" alt="Modelos" width="50%"/>
+<img src="https://sites.google.com/site/metdlgsddesarrollodesoftware/_/rsrc/1468751570088/modelo-contractual/mspiral.png" alt="Modelos" width="75%"/>
 
 
 
 ## Unidad 2
+
+
 
 ### Titulo 3
 
