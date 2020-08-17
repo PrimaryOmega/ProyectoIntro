@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "INTRODUCCION A LA INGENIERIA DE SOFTWARE (Unidad 1-2)"
-date:   2020-08-16 17:59:36
+date:   2020-08-16 18:57:36
 
 categories: Unidad
 ---
@@ -124,6 +124,7 @@ Es un modelo derivado del ciclo de vida en cascada. Este modelo busca reducir el
 <img src="http://4.bp.blogspot.com/-JPTk7lFWqJM/UE9ej0ONpvI/AAAAAAAAADk/OaATIcjpm-Y/s640/ModeloIterativol_grafica.jpg" alt="Modelos" width="75%"/>
 
 ### Modelo Prototipado. 
+El Modelo de prototipos, en Ingeniería de software, pertenece a los modelos de desarrollo evolutivo. El prototipo debe ser construido en poco tiempo, usando los programas adecuados y no se debe utilizar muchos recursos. &nbsp;
 
 <img src="https://i.ytimg.com/vi/gpd0dpCTmFw/hqdefault.jpg" alt="Modelos" width="75%"/>
 
@@ -143,7 +144,39 @@ principios siguientes: &nbsp;
 
 
 
-## Unidad 2
+# Unidad 2
+<img src="https://image.slidesharecdn.com/estandaresdecalidad-110413001639-phpapp01/95/estandares-de-calidad-aplicadas-al-software-1-728.jpg?cb=1302654035" alt="estandares" width="100%"/>
+
+## Estádares de calidad del Software. 
+Los estándares de calidad de software hacen parte de la ingeniería de software, utilización de estándares y metodologías para el diseño, programación, prueba y análisis del software desarrollado. &nbsp;
+Los estándares definen un conjunto de criterios que guían la forma en que se aplican procedimientos y metodologías al software desarrollado. &nbsp;
+
+<img src="https://2.bp.blogspot.com/-aPoJHS28g4I/UjOpQxqkSLI/AAAAAAAAAAc/ZxSeEtmO3e4/s1600/Sin+t%C3%ADtulo1.png" alt="estandares" width="50%"/>
+
+### ISO 12207
+ISO 12207 – Modelos de Ciclos de Vida del Software.
+ Estándar para los procesos de ciclo de vida del software de la organización, Este estándar se concibió para aquellos interesados en adquisición de software, así como desarrolladores y proveedores. El estándar indica una serie de procesos desde la recopilación de requisitos hasta la culminación del software.
+El estándar comprende 17 procesos lo cuales son agrupados en tres categorías:
+  * Principales.
+  * de apoyo. 
+  * de organización. 
+Este estándar agrupa las actividades que se pueden llevar a cabo durante el ciclo de vida del software en cinco procesos principales, ocho procesos de apoyo y cuatro procesos organizativos. &nbsp;
+
+<img src="https://4.bp.blogspot.com/-QkuO6L4sUTk/UjO-89cS3HI/AAAAAAAAABs/W5-0Gs4DE8E/s1600/Sin+t%C3%ADtulo5.png" alt="estandares" width="75%"/>
+
+### CMMI 
+CMMI es un modelo que contiene las mejores prácticas y que provee a las organizaciones de aquellos elementos que son esenciales para que los procesos de negocio de las mismas sean efectivos. &nbsp;
+El modelo CMMI fue inicialmente desarrollado para los procesos relativos al desarrollo e implementación de Software por la Carnegie-Mellon University. Este vio la luz por primera vez en el año 1987 como Capability Maturity Model CMM. Dicho nombre, tanto como los cinco niveles de la representación por etapas, están inspirados en el modelo de madurez Manufacturing Maturity Model de Crosby. &nbsp;
+
+<img src="https://grouptmss.files.wordpress.com/2012/04/cmmi_staged.jpg" alt="estandares" width="75%"/>
+
+### PMBOK
+El estándar PMBOK® del PMI es un referente en la dirección de proyectos, no obstante, desde el propio PMI, en un intento de aplicar dicho estándar de forma práctica o incluso para industrias específicas se publican los estándares prácticos y las extensiones del PMBOK®. La mayor parte de los mismos son de descarga gratuita y resultan de gran utilidad cuando estamos aplicando algunos conceptos a un proyecto. &nbsp;
+
+
+
+
+
 
 
 
