@@ -151,7 +151,7 @@ Un conjunto estructurado de actividades, cuya meta es el desarrollo o evolución
 Un producto software en s´ı es complejo, es pr´acticamente inviable conseguir un 100 % de confiabilidad de un programa por peque˜no que sea. &nbsp;
 El proceso de desarrollo de software no es ´unico. No existe un proceso de software universal que sea efectivo para todos los contextos de proyectos de desarrollo. &nbsp;
 
-<img src="http://2.bp.blogspot.com/-GWsHqZulAac/UlHZ9Of7KzI/AAAAAAAAAuc/kvlresxgwsw/s1600/Ingenieria_en_Software.jpg" alt="estandares" width="50%"/> <img src="https://www.monografias.com/trabajos108/modelos-del-proceso-del-software/image009.jpg" alt="estandares" width="50%"/> 
+<img src="http://2.bp.blogspot.com/-GWsHqZulAac/UlHZ9Of7KzI/AAAAAAAAAuc/kvlresxgwsw/s1600/Ingenieria_en_Software.jpg" alt="estandares" width="50%"/> <img src="https://www.monografias.com/trabajos108/modelos-del-proceso-del-software/image009.jpg" alt="estandares" width="50%"/> &nbsp;
 
 ## CLASIFICACION DE LOS MODELOS DE PROCESOS DE SOFTWARE
 ### Modelos tradicionales: 
