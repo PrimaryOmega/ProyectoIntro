@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "INTRODUCCION A LA INGENIERIA DE SOFTWARE (Unidad 1-2)"
-date:   2020-08-16 18:57:36
+date:   2020-08-16 19:31:36
 
 categories: Unidad
 ---
@@ -143,19 +143,73 @@ principios siguientes: &nbsp;
 8. Personal: Los ingenieros de software participarán toda su vida en el aprendizaje relacionado con la práctica de su profesión y promoverán un enfoque ético en la práctica de la profesión. &nbsp;
 
 
-
 # Unidad 2
 <img src="https://image.slidesharecdn.com/estandaresdecalidad-110413001639-phpapp01/95/estandares-de-calidad-aplicadas-al-software-1-728.jpg?cb=1302654035" alt="estandares" width="100%"/>
+
+## Proceso de Software
+Un conjunto estructurado de actividades, cuya meta es el desarrollo o evolución de un software eficaz y eficiente que reúna los requisitos del cliente. &nbsp;
+Un producto software en s´ı es complejo, es pr´acticamente inviable conseguir un 100 % de confiabilidad de un programa por peque˜no que sea. &nbsp;
+El proceso de desarrollo de software no es ´unico. No existe un proceso de software universal que sea efectivo para todos los contextos de proyectos de desarrollo. &nbsp;
+
+<img src="http://2.bp.blogspot.com/-GWsHqZulAac/UlHZ9Of7KzI/AAAAAAAAAuc/kvlresxgwsw/s1600/Ingenieria_en_Software.jpg" alt="estandares" width="50%"/> <img src="https://www.monografias.com/trabajos108/modelos-del-proceso-del-software/image009.jpg" alt="estandares" width="50%"/> 
+
+## CLASIFICACION DE LOS MODELOS DE PROCESOS DE SOFTWARE
+### Modelos tradicionales: 
+  * Clásico, lineal o en cascada. 
+  * Estructurado.
+  * Basado en prototipos.
+  * Desarrollo rápido de aplicaciones (RAD).
+  
+### Modelos evolutivos: 
+  * Incremental.
+  * Iterativo.
+  * En espiral.
+  
+### Modelos para sistemas orientados a objetos: 
+  * De agrupamiento.
+  * Proceso Unificado.
+  
+### Modelos basados en reutilizaci´on: 
+  * Basado en componentes.
+  * Proceso Unificado.
+  * Procesos ágiles.
+  * Programación extrema (XP).
+  * Scrum.
+  * Desarrollo de software adaptativo.
+  * Crystal.
+  
+### Modelos para sistemas web:
+  * Modelos de Pressman.
+  * UML-based Web Engineering.
+  
+  
+## MODELO AGIL:
+Constituyen un nuevo enfoque en el desarrollo de software cuyas principales caracter´ısticas son: &nbsp;
+Menor énfasis en el anélisis, diseño y documentación 
+  * Equipos pequeños.
+  * Desarrollo incremental.
+  * Programación (planificación temporal) en cajas de tiempo.
+  * Supervivencia en un entorno caótico.
 
 ## Estádares de calidad del Software. 
 Los estándares de calidad de software hacen parte de la ingeniería de software, utilización de estándares y metodologías para el diseño, programación, prueba y análisis del software desarrollado. &nbsp;
 Los estándares definen un conjunto de criterios que guían la forma en que se aplican procedimientos y metodologías al software desarrollado. &nbsp;
 
-<img src="https://2.bp.blogspot.com/-aPoJHS28g4I/UjOpQxqkSLI/AAAAAAAAAAc/ZxSeEtmO3e4/s1600/Sin+t%C3%ADtulo1.png" alt="estandares" width="50%"/>
+### SCRUM
+Scrum es un marco de trabajo para desarrollo ágil de software que se ha expandido a otras industrias. &nbsp;
+Es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo y obtener el mejor resultado. &nbsp;
 
+<img src="https://www.visual-paradigm.com/servlet/editor-content/scrum/what-is-agile-and-scrum/sites/7/2018/11/the-agile-scrum-framework.png" width="50%"/>
+
+### EXtreme Programming
+Es una metodología ágil centrada en potenciar las relaciones interpersonales como clave para el éxito en desarrollo de software, promoviendo el trabajo en equipo, preocupándose por el aprendizaje de los desarrolladores, y propiciando un buen clima de trabajo. &nbsp;
+
+<img src="https://i.ytimg.com/vi/7G4uN4S0jD4/maxresdefault.jpg" width="50%"/>
+
+## ESTANDARES DE CALIDAD DEL SOFTWARE
 ### ISO 12207
 ISO 12207 – Modelos de Ciclos de Vida del Software.
- Estándar para los procesos de ciclo de vida del software de la organización, Este estándar se concibió para aquellos interesados en adquisición de software, así como desarrolladores y proveedores. El estándar indica una serie de procesos desde la recopilación de requisitos hasta la culminación del software.
+ Estándar para los procesos de ciclo de vida del software de la organización, Este estándar se concibió para aquellos interesados en adquisición de software, así como desarrolladores y proveedores. El estándar indica una serie de procesos desde la recopilación de requisitos hasta la culminación del software. &nbsp;
 El estándar comprende 17 procesos lo cuales son agrupados en tres categorías:
   * Principales.
   * de apoyo. 
@@ -175,36 +229,3 @@ El estándar PMBOK® del PMI es un referente en la dirección de proyectos, no o
 
 
 
-
-
-
-
-
-
-
-
-
-
-### Titulo 3
-
-* Lista 1 &nbsp;
-  * Lista anidada 1 &nbsp;
-  * Lista anidada 2 &nbsp;
-* Lista 2 &nbsp;
-
-Esto es una linea. &nbsp;
-
-Esto es un pararro.
-Esto es un pararro.
-Esto es un pararro.
-Esto es un pararro. &nbsp;
-
-<img src="Link de la imagen" alt="Comentario" width="25%"/>
- 
- <img src="https://www.areatecnologia.com/informatica/imagenes/que-es-software.jpg" alt="Software" width="25%"/>
- 
- <img src="https://www.areatecnologia.com/informatica/imagenes/que-es-software.jpg" alt="Software" width="50%"/>
- 
- <img src="https://www.areatecnologia.com/informatica/imagenes/que-es-software.jpg" alt="Software" width="75%"/>
- 
- <img src="https://www.areatecnologia.com/informatica/imagenes/que-es-software.jpg" alt="Software" width="100%"/>
